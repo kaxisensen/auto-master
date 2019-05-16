@@ -1,0 +1,54 @@
+   2019-04-26 16:29:35,241 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第40行 验证会员正常取款操作:Success
+   2019-05-16 14:22:50,511 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第40行 验证会员正常取款操作:Success
+   2019-05-16 14:22:51,832 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第53行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 14:29:26,185 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第41行 验证会员正常取款操作:Success
+   2019-05-16 14:29:34,803 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第54行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 14:29:42,063 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第67行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 14:42:58,695 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第41行 验证会员正常取款操作:Success
+   2019-05-16 14:43:13,083 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第55行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 14:43:14,335 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第69行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 14:43:51,544 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第41行 验证会员正常取款操作:Success
+   2019-05-16 14:44:02,924 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第55行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 14:44:10,178 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第69行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 14:45:59,767 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第41行 验证会员正常取款操作:Success
+   2019-05-16 14:46:01,096 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第55行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 14:54:57,672 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第41行 验证会员正常取款操作:Success
+   2019-05-16 14:54:58,915 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第55行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 15:12:16,368 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第41行 验证会员正常取款操作:Success
+   2019-05-16 15:12:23,683 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第55行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 15:12:24,900 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第69行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 15:13:04,381 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第41行 验证会员正常取款操作:Success
+   2019-05-16 15:13:05,610 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第55行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 15:13:12,849 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第69行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 15:14:39,145 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第41行 验证会员正常取款操作:Success
+   2019-05-16 15:14:40,561 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第55行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 15:14:41,806 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第69行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 15:39:02,444 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第54行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 15:39:03,764 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第68行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 15:41:20,743 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第54行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 15:41:31,010 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第68行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 15:45:37,390 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第39行 验证会员正常取款操作:Success
+   2019-05-16 15:45:44,645 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第53行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 15:45:45,866 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第67行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 16:02:30,488 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第39行 验证会员正常取款操作:Success
+   2019-05-16 16:02:37,825 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第53行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 16:02:45,174 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第67行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 16:13:14,261 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第39行 验证会员正常取款操作:Success
+   2019-05-16 16:13:15,564 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第53行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 16:13:16,800 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第67行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 16:20:00,899 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第39行 验证会员正常取款操作:Success
+   2019-05-16 16:30:47,750 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Exceed_balance 第81行 验证取款时超过最大余额:Insufficient balance
+   2019-05-16 16:34:33,844 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Exceed_balance 第81行 验证取款时超过最大余额:Insufficient balance
+   2019-05-16 16:34:38,194 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第39行 验证会员正常取款操作:Success
+   2019-05-16 16:34:46,696 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第53行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 16:34:48,003 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第67行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 16:47:12,828 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Exceed_balance 第81行 验证取款时超过最大余额:Insufficient balance
+   2019-05-16 16:47:14,122 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第39行 验证会员正常取款操作:Success
+   2019-05-16 16:47:22,631 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第53行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 16:47:30,020 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第67行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 16:47:36,550 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_user_not_exists 第95行 验证为不存在的用户取款:User not exist
+   2019-05-16 16:49:43,653 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Exceed_balance 第81行 验证取款时超过最大余额:Insufficient balance
+   2019-05-16 16:49:47,895 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_Member_withDrawal 第39行 验证会员正常取款操作:Success
+   2019-05-16 16:49:55,134 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_negative_withDrawal 第53行 验证会员取款时输入负数:Invalid arguments
+   2019-05-16 16:49:59,396 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_noinput_withDrawal 第67行 验证取款时不输入取款金额:Invalid arguments
+   2019-05-16 16:50:06,632 file_record INFO 文件名:New_Member_withDrawal_test.py 模块名:New_Member_withDrawal_test 函数名:test_user_not_exists 第95行 验证为不存在的用户取款:User not exist
